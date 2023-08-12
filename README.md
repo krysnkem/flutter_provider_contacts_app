@@ -1,3 +1,3 @@
-# learning_state_management
+# provider_contacts_ap
 
-A new Flutter project.
+Learning how to use provider for state management.
